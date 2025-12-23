@@ -36,6 +36,14 @@
 - JP: bold sans (kaku gothic style).
 - Use vertical or rotated labels for side metadata.
 
+## Typography Detail
+
+- Hero: DIN Condensed/DIN Engschrift, uppercase, heavy weight.
+- Secondary: DIN Condensed or DIN Regular.
+- Micro: DIN Regular, uppercase, +0.08em to +0.12em tracking.
+- JP: bold kaku gothic with neutral tracking.
+- Fallback: condensed grotesk if DIN not available.
+
 ## Pattern Modules
 
 - Halftone wave band: rectangular strip with diagonal lines warped by a sine curve.
@@ -43,11 +51,30 @@
 - Directional arrow: oversized arrow used as a background shape.
 - Scribble lines: loose hand-drawn loops behind type blocks.
 
+## Grid Rules
+
+- 12-column grid, generous gutters.
+- Outer margin: 5 to 8 percent.
+- Hero text width: 70 to 90 percent of canvas.
+- Crop at least one edge to create tension.
+
+## Layout Patterns
+
+- Pattern A: Full-bleed image + oversized hero word + micro credits block + halftone band.
+- Pattern B: Repeated hero rows with alternating scale + vertical JP tag.
+- Pattern C: Left JP block + right EN headline, both edge-cropped.
+
 ## Texture and Finish
 
 - Add film grain at 2 to 6 percent opacity.
 - Add mild blur bloom in highlights.
 - Add dust or paper texture on light backgrounds.
+
+## Texture Recipes
+
+- Grain: fine noise, uniform across layers.
+- Halftone band: diagonal line density at 3 to 6px spacing.
+- Bloom: keep text crisp; bloom only highlights.
 
 ## Color Options
 
