@@ -1,6 +1,6 @@
 ---
 name: sunfaded-style
-description: Create UI and graphic design layouts in the sunfaded style: oversized condensed typography, bilingual JP/EN type, high-contrast overlays on photo or illustration, halftone wave bands, and analog grain. Use when a user asks for sunfaded-like aesthetics, bold typographic posters, editorial layouts, or UI screens with this specific visual system.
+description: "Create UI and graphic design layouts in the sunfaded style: oversized condensed typography, bilingual JP/EN type, high-contrast overlays on photo or illustration, halftone wave bands, and analog grain. Use when a user asks for sunfaded-like aesthetics, bold typographic posters, editorial layouts, or UI screens with this specific visual system."
 ---
 
 # Sunfaded Style
